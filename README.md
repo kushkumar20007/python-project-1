@@ -14,7 +14,7 @@ This project demonstrates an understanding of:
 ## 📺 Project Walkthrough & Demo
 Click the button below to watch the video demonstration of this application:
 
-[![Watch Video](https://img.shields.io/badge/YouTube-Video_Demo-red?style=for-the-badge&logo=youtube)]({VIDEO_URL})
+[![Watch Video](https://img.shields.io/badge/YouTube-Video_Demo-red?style=for-the-badge&logo=youtube)](https://drive.google.com/file/d/1Y0M0rF_3b13jmpryVPxSsibx7bak_JGM/view?usp=drive_link)
 
 ---
 
